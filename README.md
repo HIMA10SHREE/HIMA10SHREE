@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **upgading myself**
 
-- 🌱 I’m currently learning **MERN**
-
 - 📫 How to reach me **hazarikahimashree94@gmail.com**
 
 - ⚡ Fun fact **I love shopping.**
