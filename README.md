@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himashree Hazarika</h1>
 
-- 🔭 I’m currently working on **upgrading myself.**
+- 🔭 I’m currently working as **DevOps Engineer**
+
+-    I am exploring **Cloud, DevsecOps**
 
 - 📫 How to reach me **hazarikahimashree94@gmail.com**
 
