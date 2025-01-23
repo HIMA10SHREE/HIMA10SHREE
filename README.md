@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himashree Hazarika</h1>
-<h3 align="center">Himashree is experienced and passionate DevOps Engineer with strong hands-on experience in industry. She has 2+ year of experience in DevOps and Cloud. Feel free to reach out for freelancing project.</h3>
+<h3 align="center">Himashree is experienced and passionate DevOps Engineer with strong hands-on experience in industry. She has 2.5+ year of experience in DevOps and Cloud. Feel free to reach out for freelancing project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hima10shree&label=Profile%20views&color=0e75b6&style=flat" alt="hima10shree" /> </p>
 
